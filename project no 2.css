@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: aqua;
+	font-family: 'Roboto',sans-serif;
+}
+.container{
+max-width: 1000px;
+margin: 0 auto;
+padding: 20px;
+background-color: beige;
+}
+.profile{
+	width: 100px;
+	height: 120px;
+	border-radius: 50%;
+	border: 3px solid white;
+	float: left;
+}
+
+.header-bio{
+	float: left;
+	padding: 30px;
+}
+.tapos{
+	color: coral;
+	text-shadow: 3px 2px black;
+}
+.h3{
+	color: rgb(188, 42, 19);
+}
+/* header end */
+.link{
+	float: right;
+	padding: 30px;
+}
+.link a{
+	text-decoration: none;
+	color: darkorange;
+	cursor: help;
+	font-weight: bold;
+}
+.link  a:hover{
+	color: rgb(251, 6, 6);
+	text-decoration: underline;
+	font-size: 20px;
+}
+.clear-div{
+	clear:both;
+}
+hr{
+	width: 100%;
+	border: 3px solid black;
+	margin: 20px auto;
+	border-bottom: none;
+}
+.t{
+	width: 30%;
+	float:left;
+}
+.a{
+	height: 70%;
+	float: left;
+}
+.common-hr{
+	border: solid black 1px;
+	border-bottom: none;
+	width: 100%;
+	margin:20px auto;
+}
+.content{
+background-color:black;
+}
+.left{
+	width: 30%;
+	float: left;
+	text-transform: capitalize;
+}
+.right{
+	height: 70%;
+	float: left;
+	text-transform: capitalize;
+}
+.puspita{
+	width: 45%;
+	float: left;
+}
+.joya{
+	height: 55%;
+	float: right;
+}
+.bottom{
+	
+	background-color: black;
+	padding: 10px;
+	text-align:center;
+	
+	
+}
+.bottom a{
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	
+}
+.bottom a:hover{
+	color:orange;
+	cursor: help;
+}
+.soikot{
+	width: 50px;
+	height: 60px;
+	border-radius: 20px;
+	float: left;
+}
+.facebook{
+	width: 20px;
+	height: 20px;
+	border-radius: 30px;
+}
+
+.youtube{
+	width: 20px;
+	height: 20px;
+	border-radius: 30px;
+}
+.web{
+	width: 20px;
+	height: 20px;
+	border-radius: 30px;
+}
+table{
+	border: 2px;
+}
+
